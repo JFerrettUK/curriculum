@@ -67,7 +67,7 @@ We've already seen an absolute link in action. The link we created to The Odin P
 
 Links to other pages within our own website are called relative links. Relative links do not include the domain name, since it is another page on the same site, it assumes the domain name will be the same as the page we created the link on.
 
-Relative links only include the file path to the other page, *relative* to the page you are creating the link on. This is quite abstract, let's see this in action using an example.
+Relative links only include the file path to the other page, *relative* to the page you are creating the link on. This is quite abstract, so let's see this in action using an example.
 
 Within the `odin-links-and-images` directory, create another HTML file named `about.html` and paste the following code into it:
 
